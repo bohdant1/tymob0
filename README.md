@@ -7,7 +7,7 @@
 
 - 📖 I am pursuing BSc degree in Software Engineering (Sep 20 - Jul 24)
 
-- 🧪 I am interested in: Full-Stack Development, Cloud Migrations, Platform Engineering
+- 🧪 I am interested in: **Full-Stack Development**, **Cloud Migrations**, **Platform Engineering**
 
 - 📫 How to reach me **b.tymofieienko@gmail.com**
 
