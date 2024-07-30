@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m working as DevOps Engineer Intern at **Swisscom**
+- 🔭 I’m a Software Engineer and Cloud-Native Enthusiast
 
 - 💬 Ask me about **AWS, Azure, Kubernetes, C#, Java**
 
-- 📖 I am pursuing BSc degree in Software Engineering (Sep 20 - Jul 24)
+- 📖 I hold a BSc degree in Software Engineering (Sep 20 - Jul 24)
 
 - 🧪 I am interested in: **Full-Stack Development**, **Cloud Migrations**, **Platform Engineering**
 
